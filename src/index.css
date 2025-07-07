@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Founders Grotesk X-Condensed";
+  src: url("./Fonts/FoundersGrotesk-Semibold.ttf") format("opentype");
+}
