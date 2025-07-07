@@ -1,12 +1,25 @@
-# React + Vite
+# 🧿 Ochi Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **frontend clone** of the original [Ochi](https://ochi.design/) website — recreated using **React**, **Framer Motion**, **Tailwind CSS**, and **Locomotive Scroll** to match the sleek design and smooth user experience of the original.
 
-Currently, two official plugins are available:
+## 🔗 Original Website
+[ochi.design](https://ochi.design/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- Fully responsive layout
+- Smooth scroll animations with Locomotive Scroll
+- Framer Motion animations for transitions and interactivity
+- Modern UI with Tailwind CSS
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
+- [React](https://reactjs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Project Status
+✅ Completed – for learning and showcasing frontend animation and UI skills.
+
+---
+
+> ⚠️ **Disclaimer**: This is a personal project created for educational and portfolio purposes. It is not affiliated with or endorsed by [ochi.design](https://ochi.design/).
