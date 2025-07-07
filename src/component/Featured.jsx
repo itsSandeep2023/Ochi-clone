@@ -44,7 +44,7 @@ function Featured() {
                 className="card w-full rounded-xl overflow-hidden"
               >
                 <h1 className="absolute flex overflow-hidden left-full max-md:left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-10 text-lime-300 uppercase leading-none tracking-tight text-9xl font-['Founders_Grotesk_X-Condensed']">
-                  {"FYDE".split("").map((item, index) => (
+                  {"SALIENCE_LABS".split("").map((item, index) => (
                     <motion.span
                       key={index}
                       initial={{ y: "100%" }}
@@ -83,7 +83,7 @@ function Featured() {
               <div className="w-[100%] pb-[1vw] flex items-center gap-2">
                 <div className="w-[.8vw] h-[.8vw] rounded-full bg-zinc-800"></div>
                 <h1 className="text-md max-2xl:text-base max-lg:text-sm max-md:text-xs uppercase">
-                  Fyde
+                  Vise
                 </h1>
               </div>
               <motion.div
@@ -183,7 +183,7 @@ function Featured() {
               <div className="w-[100%] pb-[1vw] flex items-center gap-2">
                 <div className="w-[.8vw] h-[.8vw] rounded-full bg-zinc-800"></div>
                 <h1 className="text-md max-2xl:text-base max-lg:text-sm max-md:text-xs uppercase">
-                  Fyde
+                  Softstart
                 </h1>
               </div>
               <motion.div
